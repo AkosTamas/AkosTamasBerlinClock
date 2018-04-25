@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClock", "BerlinClock\BerlinClock.csproj", "{E7CEA624-C8DF-46D4-94E4-03FD43DF6F71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BerlinClock.Test", "BerlinClock.Test\BerlinClock.Test.csproj", "{DAB6AF77-F9AE-49B3-BB58-0709E8A14E0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7CEA624-C8DF-46D4-94E4-03FD43DF6F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7CEA624-C8DF-46D4-94E4-03FD43DF6F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7CEA624-C8DF-46D4-94E4-03FD43DF6F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7CEA624-C8DF-46D4-94E4-03FD43DF6F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAB6AF77-F9AE-49B3-BB58-0709E8A14E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB6AF77-F9AE-49B3-BB58-0709E8A14E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB6AF77-F9AE-49B3-BB58-0709E8A14E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB6AF77-F9AE-49B3-BB58-0709E8A14E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8B65AB5-1CF8-4963-80BB-2F0F45710951}
+	EndGlobalSection
+EndGlobal
